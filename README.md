@@ -1,4 +1,4 @@
-# smartroutes-io
+# SmartRoutes
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,146 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-smartroutes-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://smartroutes.io/
+SmartRoutes provides route planning software for logistics and delivery operations. Their platform enables businesses to build optimized routes for drivers, send delivery notifications with live tracking, manage fleet tracking, barcode scanning, and define delivery zones. Integrated with various store and order systems, SmartRoutes serves industries such as logistics, furniture, couriers, retail, eCommerce, and cannabis, offering analytics and reporting to improve route efficiency and customer experience.
+
+**Areas:** Logistics · Delivery · Route Planning · SaaS · SmartRoutes
+
+## SmartRoutes on APIs.io
+
+Everything profiled for SmartRoutes is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/smartroutes-io/](https://apis.io/providers/smartroutes-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (16)
+
+- [SmartRoutes Booking API](https://apis.io/apis/smartroutes-io/smartroutes-io-booking-api/) — The Booking API from SmartRoutes — 1 operation(s) for booking.
+- [SmartRoutes Capacities API](https://apis.io/apis/smartroutes-io/smartroutes-io-capacities-api/) — The Capacities API from SmartRoutes — 1 operation(s) for capacities.
+- [SmartRoutes Custom Fields API](https://apis.io/apis/smartroutes-io/smartroutes-io-custom-fields-api/) — The Custom Fields API from SmartRoutes — 1 operation(s) for custom fields.
+- [SmartRoutes Customers API](https://apis.io/apis/smartroutes-io/smartroutes-io-customers-api/) — The Customers API from SmartRoutes — 2 operation(s) for customers.
+- [SmartRoutes Driver Questionnaires API](https://apis.io/apis/smartroutes-io/smartroutes-io-driver-questionnaires-api/) — The Driver Questionnaires API from SmartRoutes — 2 operation(s) for driver questionnaires.
+- [SmartRoutes Notification Tasks API](https://apis.io/apis/smartroutes-io/smartroutes-io-notification-tasks-api/) — The Notification Tasks API from SmartRoutes — 1 operation(s) for notification tasks.
+- [SmartRoutes Notifications API](https://apis.io/apis/smartroutes-io/smartroutes-io-notifications-api/) — The Notifications API from SmartRoutes — 2 operation(s) for notifications.
+- [SmartRoutes Order Statuses API](https://apis.io/apis/smartroutes-io/smartroutes-io-order-statuses-api/) — The Order Statuses API from SmartRoutes — 2 operation(s) for order statuses.
+- [SmartRoutes Orders API](https://apis.io/apis/smartroutes-io/smartroutes-io-orders-api/) — The Orders API from SmartRoutes — 4 operation(s) for orders.
+- [SmartRoutes Plans API](https://apis.io/apis/smartroutes-io/smartroutes-io-plans-api/) — The Plans API from SmartRoutes — 6 operation(s) for plans.
+- [SmartRoutes Proof of Delivery API](https://apis.io/apis/smartroutes-io/smartroutes-io-proof-of-delivery-api/) — The Proof of Delivery API from SmartRoutes — 2 operation(s) for proof of delivery.
+- [SmartRoutes Routes API](https://apis.io/apis/smartroutes-io/smartroutes-io-routes-api/) — The Routes API from SmartRoutes — 6 operation(s) for routes.
+- [SmartRoutes Third Parties API](https://apis.io/apis/smartroutes-io/smartroutes-io-third-parties-api/) — The Third Parties API from SmartRoutes — 1 operation(s) for third parties.
+- [SmartRoutes Vehicles API](https://apis.io/apis/smartroutes-io/smartroutes-io-vehicles-api/) — The Vehicles API from SmartRoutes — 2 operation(s) for vehicles.
+- [SmartRoutes Webhooks API](https://apis.io/apis/smartroutes-io/smartroutes-io-webhooks-api/) — Configure a webhook receiver URL in your depot settings and SmartRoutes will deliver event notifications as they happen. Ten event types are emitted, each…
+- [SmartRoutes Zone Groups API](https://apis.io/apis/smartroutes-io/smartroutes-io-zone-groups-api/) — The Zone Groups API from SmartRoutes — 2 operation(s) for zone groups.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [SmartRoutes Agentic Access](https://apis.io/agentic-access/smartroutes-io/smartroutes-io-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BookingAvailabilityResponse](https://apis.io/schemas/smartroutes-io/smartroutes-io-booking-availability-response/)
+- [DriverQuestionnaireSubmissionDetail](https://apis.io/schemas/smartroutes-io/smartroutes-io-driver-questionnaire-submission-detail/)
+- [OrderStatusOption](https://apis.io/schemas/smartroutes-io/smartroutes-io-order-status-option/)
+- [OrdersListResponse](https://apis.io/schemas/smartroutes-io/smartroutes-io-orders-list-response/)
+- [PlanOptimisationResponse](https://apis.io/schemas/smartroutes-io/smartroutes-io-plan-optimisation-response/)
+- [PlanSequenceResponse](https://apis.io/schemas/smartroutes-io/smartroutes-io-plan-sequence-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Smartroutes Io Context](https://apis.io/jsonld/smartroutes-io/smartroutes-io-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [SmartRoutes API Rules](https://apis.io/rules/smartroutes-io/smartroutes-io-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SmartRoutes Authentication](https://apis.io/security/smartroutes-io/smartroutes-io-authentication/)
+- [SmartRoutes Domain Security](https://apis.io/security/smartroutes-io/smartroutes-io-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [SmartRoutes Plans Pricing](https://apis.io/plans/smartroutes-io/smartroutes-io-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://smartroutes.io/)
+- [Documentation](https://smartroutes.io/docs)
+- [Getting started](https://smartroutes.io/guides/smartroutes-mcp-server/)
+- [API reference](https://smartroutes.io/api)
+- [Pricing](https://smartroutes.io/pricing)
+- [Sign up](https://smartroutes.io/sign-up)
+- [Support](https://smartroutes.io/support)
+- [Blog](https://smartroutes.io/blogs)
+- [Terms of service](https://smartroutes.io/terms-conditions)
+- [Privacy policy](https://smartroutes.io/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 56.5** — strong · rubric 0.27.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 59.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 73.2 |
+
+**Agent readiness 43.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/smartroutes-io/](https://apis.io/providers/smartroutes-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SmartRoutes: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/smartroutes-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
